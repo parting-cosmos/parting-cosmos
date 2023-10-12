@@ -1,4 +1,4 @@
-### I'm new here. Currently, I am studying cybersercurity and in my free time, I'd like to learn how to make a video game. 
+### I'm new here. Currently, I am studying cybersercurity. I'd like to make a simple but fun rpg or platform game (Earthbound, Mario, Eastward) but first, I'd like to learn as much as I can about Linux. 
 
 <!--
 **parting-cosmos/parting-cosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
